@@ -1,0 +1,7 @@
+fastapi 
+uvicorn 
+nest-asyncio 
+python-multipart 
+opencv-python-headless
+joblib 
+numpy
